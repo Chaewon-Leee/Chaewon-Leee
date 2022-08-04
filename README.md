@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![header](https://capsule-render.vercel.app/api?type=shark&color=gradient&height=300&section=header&text=cw001121&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=shark&color=gradient&height=300&section=footer)
+
 <!--
 **cw001121/cw001121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
