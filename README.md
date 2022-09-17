@@ -10,10 +10,8 @@
 
 #### ✨ **github** &nbsp;&nbsp;https://github.com/cw001121
 
-<br/>
-
-#### [What i learned](https://github.com/cw001121/TIL)
-
 #### [Show Details...](https://github.com/cw001121/Portfolio.Chaewon)
+
+<br/>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=cw001121)](https://github.com/cw001121/cw001121)
