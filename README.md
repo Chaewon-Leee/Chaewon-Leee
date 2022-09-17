@@ -1,7 +1,16 @@
-![header](https://capsule-render.vercel.app/api?type=shark&color=gradient&height=300&section=header&text=cw001121&fontSize=90)
+## 이채원
 
-![header](https://capsule-render.vercel.app/api?type=shark&color=gradient&height=150&section=footer)
+#### 🌱 DEVELOPER
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cw001121)](https://github.com/cw001121/cw001121)
+>
+
+✨ **portfolio** [https://www.notion.so/chaewon/...](https://royal-tiger-88d.notion.site/d2d081c95a5045c0bdc4cc563081e73d)
+✨ **email**&nbsp;&nbsp;&nbsp;oochaewonoo@gmail.com
+✨ **github**&nbsp;&nbsp;https://github.com/cw001121
+
+<br/>
+
+[Show Details...](https://github.com/cw001121/Portfolio.Chaewon)
+[What i learned](https://github.com/cw001121/TIL)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=cw001121)](https://github.com/cw001121/cw001121)
