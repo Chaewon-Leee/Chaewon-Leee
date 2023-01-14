@@ -12,5 +12,3 @@
 
 <br/>
 <br/>
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=cw001121)](https://github.com/cw001121/cw001121)
