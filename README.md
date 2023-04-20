@@ -8,7 +8,7 @@
 #### ✨ **email** &nbsp;&nbsp;&nbsp;oochaewonoo@gmail.com
 #### ✨ **github** &nbsp;&nbsp;https://github.com/cw001121
 
-#### [Show Details...](https://github.com/cw001121/Portfolio.Chaewon)
+#### ✨ **linkedin** &nbsp;&nbsp;[www.linkedin.com/in/...](www.linkedin.com/in/채원-이-b6a985258)
 
 <br/>
 <br/>
